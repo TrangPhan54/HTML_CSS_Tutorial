@@ -1,0 +1,71 @@
+/* styles.css */
+*{
+    font-family: 'Bagel Fat One', cursive;
+}
+
+body {
+  font-family: cursive, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: url("../img/wallpaperflare.com_wallpaper\ \(9\).jpg ")
+    center/cover fixed;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+header nav ul li a {
+    font-style: oblique;
+    font-size: 30px;
+    color: #8b4513	;
+}
+
+nav ul li a:hover {
+  background-color: #ddd;
+}
+
+main {
+  padding: 20px;
+  background: white;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+.book {
+  display: block;
+  width: 200px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.book img {
+  width: 150px;
+  height: 200px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+h2 {
+    text-align: center;
+    
+}
